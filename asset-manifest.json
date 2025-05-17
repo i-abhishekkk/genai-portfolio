@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/genai-portfolio/static/css/main.d0819bae.css",
-    "main.js": "/genai-portfolio/static/js/main.5906643c.js",
+    "main.css": "/genai-portfolio/static/css/main.72dbf5b4.css",
+    "main.js": "/genai-portfolio/static/js/main.80e6f2ed.js",
     "static/js/453.8e605998.chunk.js": "/genai-portfolio/static/js/453.8e605998.chunk.js",
     "static/media/profile.jpg": "/genai-portfolio/static/media/profile.4d49d3b54e217adf281c.jpg",
     "static/media/resume.pdf": "/genai-portfolio/static/media/resume.ef82cbaa826dd0be1f14.pdf",
     "index.html": "/genai-portfolio/index.html",
-    "main.d0819bae.css.map": "/genai-portfolio/static/css/main.d0819bae.css.map",
-    "main.5906643c.js.map": "/genai-portfolio/static/js/main.5906643c.js.map",
+    "main.72dbf5b4.css.map": "/genai-portfolio/static/css/main.72dbf5b4.css.map",
+    "main.80e6f2ed.js.map": "/genai-portfolio/static/js/main.80e6f2ed.js.map",
     "453.8e605998.chunk.js.map": "/genai-portfolio/static/js/453.8e605998.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0819bae.css",
-    "static/js/main.5906643c.js"
+    "static/css/main.72dbf5b4.css",
+    "static/js/main.80e6f2ed.js"
   ]
 }
