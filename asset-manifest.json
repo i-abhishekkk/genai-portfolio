@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/genai-portfolio/static/css/main.8cc8063b.css",
-    "main.js": "/genai-portfolio/static/js/main.cce445d4.js",
+    "main.js": "/genai-portfolio/static/js/main.b3f5001b.js",
     "static/js/453.8e605998.chunk.js": "/genai-portfolio/static/js/453.8e605998.chunk.js",
     "static/media/cv.pdf": "/genai-portfolio/static/media/cv.db9b2b5224961e4a3d02.pdf",
     "static/media/resume.pdf": "/genai-portfolio/static/media/resume.9868db9fc18e4f31e3ed.pdf",
@@ -14,17 +14,20 @@
     "static/media/kenvue.png": "/genai-portfolio/static/media/kenvue.c55735b418ef54e1fe0e.png",
     "static/media/target.png": "/genai-portfolio/static/media/target.490cc3a2771119e40bf6.png",
     "static/media/walmart.png": "/genai-portfolio/static/media/walmart.6831fa15224e325e8d6b.png",
+    "static/media/kroger.png": "/genai-portfolio/static/media/kroger.430ec6291af54d426229.png",
     "static/media/jnj.png": "/genai-portfolio/static/media/jnj.10dffa40750f20ba4fe7.png",
     "static/media/fa-regular-400.woff2": "/genai-portfolio/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/frontdoor.png": "/genai-portfolio/static/media/frontdoor.7f15beecbcdb537f1a30.png",
+    "static/media/eight451.png": "/genai-portfolio/static/media/eight451.0bec11ab6a49f6a2817b.png",
     "static/media/fa-v4compatibility.ttf": "/genai-portfolio/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/genai-portfolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/genai-portfolio/index.html",
     "main.8cc8063b.css.map": "/genai-portfolio/static/css/main.8cc8063b.css.map",
-    "main.cce445d4.js.map": "/genai-portfolio/static/js/main.cce445d4.js.map",
+    "main.b3f5001b.js.map": "/genai-portfolio/static/js/main.b3f5001b.js.map",
     "453.8e605998.chunk.js.map": "/genai-portfolio/static/js/453.8e605998.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8cc8063b.css",
-    "static/js/main.cce445d4.js"
+    "static/js/main.b3f5001b.js"
   ]
 }
