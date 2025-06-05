@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/genai-portfolio/static/css/main.871b4d7a.css",
-    "main.js": "/genai-portfolio/static/js/main.034d4fbf.js",
+    "main.css": "/genai-portfolio/static/css/main.d81c2c4f.css",
+    "main.js": "/genai-portfolio/static/js/main.4204ae0b.js",
     "static/js/453.8e605998.chunk.js": "/genai-portfolio/static/js/453.8e605998.chunk.js",
     "static/media/cv.pdf": "/genai-portfolio/static/media/cv.db9b2b5224961e4a3d02.pdf",
     "static/media/resume.pdf": "/genai-portfolio/static/media/resume.9868db9fc18e4f31e3ed.pdf",
@@ -22,12 +22,12 @@
     "static/media/fa-v4compatibility.ttf": "/genai-portfolio/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/genai-portfolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/genai-portfolio/index.html",
-    "main.871b4d7a.css.map": "/genai-portfolio/static/css/main.871b4d7a.css.map",
-    "main.034d4fbf.js.map": "/genai-portfolio/static/js/main.034d4fbf.js.map",
+    "main.d81c2c4f.css.map": "/genai-portfolio/static/css/main.d81c2c4f.css.map",
+    "main.4204ae0b.js.map": "/genai-portfolio/static/js/main.4204ae0b.js.map",
     "453.8e605998.chunk.js.map": "/genai-portfolio/static/js/453.8e605998.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.871b4d7a.css",
-    "static/js/main.034d4fbf.js"
+    "static/css/main.d81c2c4f.css",
+    "static/js/main.4204ae0b.js"
   ]
 }
