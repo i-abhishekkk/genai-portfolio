@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/genai-portfolio/static/css/main.d81c2c4f.css",
-    "main.js": "/genai-portfolio/static/js/main.2ac5441e.js",
+    "main.css": "/genai-portfolio/static/css/main.34ac92d8.css",
+    "main.js": "/genai-portfolio/static/js/main.a5ea0b00.js",
     "static/js/453.8e605998.chunk.js": "/genai-portfolio/static/js/453.8e605998.chunk.js",
     "static/media/cv.pdf": "/genai-portfolio/static/media/cv.db9b2b5224961e4a3d02.pdf",
     "static/media/resume.pdf": "/genai-portfolio/static/media/resume.9868db9fc18e4f31e3ed.pdf",
@@ -9,6 +9,7 @@
     "static/media/fa-solid-900.ttf": "/genai-portfolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/genai-portfolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
     "static/media/fa-solid-900.woff2": "/genai-portfolio/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/intro.mp3": "/genai-portfolio/static/media/intro.31776d6012e8132e7d60.mp3",
     "static/media/fa-brands-400.woff2": "/genai-portfolio/static/media/fa-brands-400.c210719e60948b211a12.woff2",
     "static/media/fa-regular-400.ttf": "/genai-portfolio/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
     "static/media/kenvue.png": "/genai-portfolio/static/media/kenvue.c55735b418ef54e1fe0e.png",
@@ -22,12 +23,12 @@
     "static/media/fa-v4compatibility.ttf": "/genai-portfolio/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/genai-portfolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/genai-portfolio/index.html",
-    "main.d81c2c4f.css.map": "/genai-portfolio/static/css/main.d81c2c4f.css.map",
-    "main.2ac5441e.js.map": "/genai-portfolio/static/js/main.2ac5441e.js.map",
+    "main.34ac92d8.css.map": "/genai-portfolio/static/css/main.34ac92d8.css.map",
+    "main.a5ea0b00.js.map": "/genai-portfolio/static/js/main.a5ea0b00.js.map",
     "453.8e605998.chunk.js.map": "/genai-portfolio/static/js/453.8e605998.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d81c2c4f.css",
-    "static/js/main.2ac5441e.js"
+    "static/css/main.34ac92d8.css",
+    "static/js/main.a5ea0b00.js"
   ]
 }
