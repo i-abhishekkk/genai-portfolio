@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/genai-portfolio/static/css/main.28a37649.css",
-    "main.js": "/genai-portfolio/static/js/main.78cb90a8.js",
+    "main.js": "/genai-portfolio/static/js/main.a96931a7.js",
     "static/js/453.8e605998.chunk.js": "/genai-portfolio/static/js/453.8e605998.chunk.js",
     "static/media/cv.pdf": "/genai-portfolio/static/media/cv.db9b2b5224961e4a3d02.pdf",
     "static/media/resume.pdf": "/genai-portfolio/static/media/resume.9868db9fc18e4f31e3ed.pdf",
     "static/media/profile.jpg": "/genai-portfolio/static/media/profile.801de046ed51d6b8a401.jpg",
     "static/media/fa-solid-900.ttf": "/genai-portfolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/intro.mp3": "/genai-portfolio/static/media/intro.b7f4b05b9f0be229305a.mp3",
-    "static/media/typing-chime.mp3": "/genai-portfolio/static/media/typing-chime.d7bb0b205862762152fa.mp3",
     "static/media/fa-brands-400.ttf": "/genai-portfolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
     "static/media/fa-solid-900.woff2": "/genai-portfolio/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
     "static/media/fa-brands-400.woff2": "/genai-portfolio/static/media/fa-brands-400.c210719e60948b211a12.woff2",
@@ -25,11 +24,11 @@
     "static/media/fa-v4compatibility.woff2": "/genai-portfolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/genai-portfolio/index.html",
     "main.28a37649.css.map": "/genai-portfolio/static/css/main.28a37649.css.map",
-    "main.78cb90a8.js.map": "/genai-portfolio/static/js/main.78cb90a8.js.map",
+    "main.a96931a7.js.map": "/genai-portfolio/static/js/main.a96931a7.js.map",
     "453.8e605998.chunk.js.map": "/genai-portfolio/static/js/453.8e605998.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28a37649.css",
-    "static/js/main.78cb90a8.js"
+    "static/js/main.a96931a7.js"
   ]
 }
